@@ -1,1 +1,32 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#palo-izq {
+  text-align: left;
+  border: white;
+  font-size: 2em;
+}
+
+#palo-der {
+  text-align: right;
+  border: white;
+  font-size: 2em;
+}
+
+#numero {
+  border: white;
+  font-size: 4em;
+}
+
+.palosIzq {
+  margin-left: 10px;
+  padding-top: -15px;
+}
+
+.paloDer {
+  margin-right: 10px;
+  padding-bottom: 20px;
+}
+
+body {
+  background-color: blueviolet;
+}
